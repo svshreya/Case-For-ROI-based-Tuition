@@ -1,4 +1,4 @@
-# Case-For-ROI-based-Tuition
+# Case For ROI-based Tuition
 # Project Title: Differential Tuition Model for Reducing Student Debt
 
 ## Overview
