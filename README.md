@@ -22,13 +22,13 @@ The project includes a series of data visualizations that illustrate:
 Included in this repository is a presentation that outlines the argument for differential tuition. The presentation slides are supported by persuasive data visualizations and a script that concisely conveys the urgency of the issue and the need for change.
 
 ## Repository Structure
-Major_data.xlsx
-SLOAS.xlsx
-README.md
-Unemp_rate_by_major.png
-Tuition_hist_vs_compsci.png
-SLOAS.png
-Debt_to_income_by_major.png
+- Major_data.xlsx
+- SLOAS.xlsx
+- README.md
+- Unemp_rate_by_major.png
+- Tuition_hist_vs_compsci.png
+- SLOAS.png
+- Debt_to_income_by_major.png
 
 ## Contributing
 Shreya Chidambaram, Shreya Vanaki, Fernando Castro
