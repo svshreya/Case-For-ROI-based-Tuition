@@ -25,6 +25,10 @@ Included in this repository is a presentation that outlines the argument for dif
 Major_data.xlsx
 SLOAS.xlsx
 README.md
+Unemp_rate_by_major.png
+Tuition_hist_vs_compsci.png
+SLOAS.png
+Debt_to_income_by_major.png
 
 ## Contributing
 Shreya Chidambaram, Shreya Vanaki, Fernando Castro
