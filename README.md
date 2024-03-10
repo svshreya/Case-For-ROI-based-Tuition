@@ -44,9 +44,7 @@ From a combined excel file Major_Data that came from two sources:
 2nd: NACE-Salary-Survey_Winter-2022.pdf ([unc.edu](https://careers.unc.edu/wp-content/uploads/2022/02/NACE-Salary-Survey_Winter-2022.pdf))
 
 Chart 3: Unemployment Disparity across Majors
-From a combined excel file Major_Data that came from two sources:
-1st: Student Loan Debt by Major [2023]: Highest + Lowest Average Debt ([educationdata.org](https://educationdata.org/student-loan-debt-by-major))
-2nd: NACE-Salary-Survey_Winter-2022.pdf ([unc.edu](https://careers.unc.edu/wp-content/uploads/2022/02/NACE-Salary-Survey_Winter-2022.pdf))
+Unemployment rate of recent college graduates in the United States as of February 2023, by major (https://www.statista.com/statistics/642043/unemployment-rate-of-us-college-graduates-by-major/)
 
 Infographic on tuition cost hist vs comp sci:
 Undergraduate Costs of Attendance | Cal Poly (https://www.calpoly.edu/financial-aid/costs-and-affordability/undergraduate-costs-of-attendance) 
