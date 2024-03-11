@@ -46,7 +46,10 @@ From a combined excel file Major_Data that came from two sources:
 Chart 3: Unemployment Disparity across Majors
 Unemployment rate of recent college graduates in the United States as of February 2023, by major (https://www.statista.com/statistics/642043/unemployment-rate-of-us-college-graduates-by-major/)
 
-Infographic on tuition cost hist vs comp sci:
+Chart 4: How did Americans choose their College Major?
+From this website: Surveying Americans on How College Majors Are Chosen (https://www.gcu.edu/blog/gcu-experience/love-or-money-surveying-americans-how-college-majors-are-chosen#:~:text=An%20overwhelming%2081%25%20decided%20on,love%20holds%20true%20across%20generations)
+
+Infographic on Tuition Cost Hist vs Comp Sci:
 Undergraduate Costs of Attendance | Cal Poly (https://www.calpoly.edu/financial-aid/costs-and-affordability/undergraduate-costs-of-attendance) 
 
 
