@@ -1,5 +1,5 @@
 # Case For ROI-based Tuition
-# Project Title: Differential Tuition Model for Reducing Student Debt
+# Project: Differential Tuition Model for Reducing Student Debt
 
 ## Overview
 This project explores the impact of rising student debt in America and proposes a differential tuition model based on degree and major to create a more equitable educational landscape. The goal is to align tuition fees with expected return on investment and potential earning power, reducing the financial burden on students in fields with traditionally lower starting salaries.
