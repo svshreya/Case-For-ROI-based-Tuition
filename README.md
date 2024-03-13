@@ -22,14 +22,20 @@ The project includes a series of data visualizations that illustrate:
 Included in this repository is a presentation that outlines the argument for differential tuition. The presentation slides are supported by persuasive data visualizations and a script that concisely conveys the urgency of the issue and the need for change.
 
 ## Repository Structure
-- Major_data.xlsx
-- SLOAS.xlsx
-- README.md
-- Unemp_rate_by_major.png
-- Tuition_hist_vs_compsci.png
-- SLOAS.png
+- Beyond the Diploma-v2.pdf
+- Beyond the Diploma-v2.ppt
+- Beyond the Diploma.pdf
+- Beyond the Diploma.ppt
 - Debt_to_income_by_major.png
+- Infographic .jpg
+- Infographic .pdf
 - Major_Choice_.png
+- Major_data.xlsx
+- README.md
+- SLOAS.png
+- SLOAS.xlsx
+- Tuition_hist_vs_compsci.png
+- Unemp_rate_by_major.png
 
 ## Contributing
 Shreya Chidambaram, Shreya Vanaki, Fernando Castro
@@ -52,5 +58,9 @@ From this website: Surveying Americans on How College Majors Are Chosen (https:/
 
 Infographic on Tuition Cost Hist vs Comp Sci:
 Undergraduate Costs of Attendance | Cal Poly (https://www.calpoly.edu/financial-aid/costs-and-affordability/undergraduate-costs-of-attendance) 
+
+## Reddit Links:
+https://www.reddit.com/r/DemocraticSocialism/
+https://www.reddit.com/r/datavisualization/comments/1bcas13/exploring_roibased_tuition_dive_into_our/
 
 
